@@ -15,3 +15,18 @@ numeros.map(function(value){
 });
 
 numeros.map( x => x * 2);
+
+class Matematica{
+    soma(x, y){
+        return x + y;
+    }
+}
+
+let x = "asdfadf";
+x = 4;
+
+let n1: string = "asdfgh";
+n1 = 4;
+
+let n2: any = "asdfgh";
+n2 = 4;
